@@ -4,9 +4,6 @@ function setup() {
   noFill();
 
   stroke(255, 0, 0);
-
-  var x;
-
 /*
   x = 1;
   ellipse(x * 100, 100, 50, 50);
